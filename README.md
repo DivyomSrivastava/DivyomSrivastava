@@ -59,62 +59,70 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 
 ---
 
-## ⭐ Featured Projects
-
-### 🤖 BumperBot ROS 2 Workspace
+## 🏆 Featured Projects
 
 <table>
   <tr>
-    <td width="35%" align="center">
+    <td style="width:70%; vertical-align:top;">
+      <h3>🤖 BumperBot ROS 2 Workspace</h3>
+      <p>A complete differential-drive mobile robot simulation and control workspace built with <strong>ROS 2 Jazzy</strong> and <strong>Ubuntu 24.04</strong>.</p>
+      <ul>
+        <li><strong>Robot Modeling:</strong> URDF/Xacro meshes, inertias, collision geometry, and caster wheels</li>
+        <li><strong>Simulation:</strong> Gazebo, RViz, odometry, TF, and distro-aware configuration</li>
+        <li><strong>Control:</strong> ros2_control, DiffDriveController, and custom Python kinematics</li>
+        <li><strong>Teleoperation:</strong> Joystick control through joy and joy_teleop</li>
+      </ul>
+      <p><strong>Technologies:</strong> Python, C++, ROS 2 Jazzy, Gazebo, RViz, XML/Xacro, YAML, CMake</p>
+      <a href="https://github.com/DivyomSrivastava/Bumper_Bot"><strong>🔗 Explore the Project</strong></a>
+    </td>
+    <td style="width:30%; text-align:center; vertical-align:middle;">
       <a href="https://github.com/DivyomSrivastava/Bumper_Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true" alt="BumperBot repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true" alt="BumperBot repository" width="100%" />
       </a>
-    </td>
-    <td width="65%" align="left" valign="top">
-      <h4>Complete ROS 2 Differential-Drive Robot</h4>
-      <p>A production-ready mobile robot simulation and control workspace built with <b>ROS 2 Jazzy</b> and <b>Ubuntu 24.04</b>. Features URDF/Xacro robot modeling, Gazebo simulation, ros2_control hardware interfaces, joystick teleoperation, and custom kinematics controllers.</p>
-      <p><b>Tech:</b> Python • C++ • ROS 2 • Gazebo • ros2_control</p>
-      <a href="https://github.com/DivyomSrivastava/Bumper_Bot">📖 View Repository →</a>
     </td>
   </tr>
 </table>
 
----
-
-### 🚦 AI Traffic Monitoring System
-
 <table>
   <tr>
-    <td width="35%" align="center">
+    <td style="width:70%; vertical-align:top;">
+      <h3>🚦 AI Traffic Monitoring System</h3>
+      <p>An intelligent traffic management solution using <strong>YOLOv8</strong> for real-time vehicle detection and <strong>ByteTrack</strong> for multi-object tracking.</p>
+      <ul>
+        <li><strong>Detection:</strong> Real-time classification of cars, motorcycles, buses, and trucks</li>
+        <li><strong>Tracking:</strong> Persistent IDs, line crossing counts, and traffic-flow analysis</li>
+        <li><strong>Optimization:</strong> Density estimation and adaptive signal timing recommendations</li>
+        <li><strong>Analytics:</strong> Live dashboard and CSV reports for historical analysis</li>
+      </ul>
+      <p><strong>Technologies:</strong> Python, YOLOv8, ByteTrack, OpenCV, real-time analytics</p>
+      <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System"><strong>🔗 Explore the Project</strong></a>
+    </td>
+    <td style="width:30%; text-align:center; vertical-align:middle;">
       <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true" alt="AI Traffic Monitoring System" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true" alt="AI Traffic Monitoring System" width="100%" />
       </a>
-    </td>
-    <td width="65%" align="left" valign="top">
-      <h4>Real-Time Intelligent Traffic Management</h4>
-      <p>Intelligent traffic solution using <b>YOLOv8</b> for vehicle detection and <b>ByteTrack</b> for multi-object tracking. Includes traffic density estimation, adaptive signal timing, line crossing counter, live analytics dashboard, and CSV report generation for urban traffic optimization.</p>
-      <p><b>Tech:</b> Python • YOLOv8 • ByteTrack • OpenCV • Analytics</p>
-      <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">📊 View Repository →</a>
     </td>
   </tr>
 </table>
 
----
-
-### 🧬 Brain Tumor Detection — NeuroVision AI
-
 <table>
   <tr>
-    <td width="35%" align="center">
-      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true" alt="Brain Tumor Detection AI" />
-      </a>
+    <td style="width:70%; vertical-align:top;">
+      <h3>🧬 Brain Tumor Detection — NeuroVision AI</h3>
+      <p>An end-to-end medical AI application for <strong>brain MRI tumor classification</strong> using deep learning and explainable AI.</p>
+      <ul>
+        <li><strong>Classification:</strong> EfficientNet-B0 detects Glioma, Meningioma, Pituitary, and No Tumor</li>
+        <li><strong>Explainability:</strong> Grad-CAM highlights the regions influencing each prediction</li>
+        <li><strong>Dashboard:</strong> Streamlit interface for single and batch MRI analysis</li>
+        <li><strong>Reporting:</strong> Automated PDF reports with confidence scores and visual explanations</li>
+      </ul>
+      <p><strong>Technologies:</strong> Python, PyTorch, EfficientNet-B0, Grad-CAM, Streamlit</p>
+      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning"><strong>🔗 Explore the Project</strong></a>
     </td>
-    <td width="65%" align="left" valign="top">
-      <h4>Medical AI with Explainable Deep Learning</h4>
-      <p>End-to-end medical AI application for brain MRI tumor classification using <b>EfficientNet-B0</b> and <b>Grad-CAM</b> explainability. Features Streamlit web dashboard, automated PDF report generation, batch processing, and interpretable predictions for clinical use.</p>
-      <p><b>Tech:</b> Python • PyTorch • EfficientNet • Grad-CAM • Streamlit</p>
-      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">🧠 View Repository →</a>
+    <td style="width:30%; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true" alt="Brain Tumor Detection AI" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
@@ -136,27 +144,35 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Distribution" width="48%" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
 <br>
 
-**Repository Highlights**
+### Repository Highlights
 
-| Public Repos | Followers | Total Stars |
-|:---:|:---:|:---:|
-| 3+ | 50+ | 10+ |
+<table>
+  <tr>
+    <td align="center"><strong>📦 Public Repositories</strong><br><img src="https://img.shields.io/badge/3%2B-00E5FF?style=for-the-badge&label=Repositories&labelColor=1a1a2e" alt="Public Repositories" /></td>
+    <td align="center"><strong>👥 Followers</strong><br><img src="https://img.shields.io/badge/50%2B-7C3AED?style=for-the-badge&label=Followers&labelColor=1a1a2e" alt="Followers" /></td>
+    <td align="center"><strong>⭐ Total Stars</strong><br><img src="https://img.shields.io/badge/10%2B-FFD700?style=for-the-badge&label=Stars&labelColor=1a1a2e" alt="Total Stars" /></td>
+  </tr>
+</table>
 
 <br>
 
-**Expertise Areas**
+### Expertise Distribution
 
-| 🤖 Robotics | 🧠 AI/ML | 💻 Software |
-|:---:|:---:|:---:|
-| ROS 2 • Gazebo • Nav2 | PyTorch • TensorFlow • CV | Python • C++ • Embedded |
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>🤖 Robotics</strong><br><br><img src="https://img.shields.io/badge/ROS%202-95%25-22314E?style=flat-square" alt="ROS 2" /><br><img src="https://img.shields.io/badge/Gazebo-90%25-FF6F20?style=flat-square" alt="Gazebo" /><br><img src="https://img.shields.io/badge/Nav2-85%25-00A86B?style=flat-square" alt="Nav2" /></td>
+    <td width="33%" align="center"><strong>🧠 AI/ML</strong><br><br><img src="https://img.shields.io/badge/PyTorch-92%25-EE4C2C?style=flat-square" alt="PyTorch" /><br><img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square" alt="TensorFlow" /><br><img src="https://img.shields.io/badge/OpenCV-90%25-5C3EE8?style=flat-square" alt="OpenCV" /></td>
+    <td width="33%" align="center"><strong>💻 Software</strong><br><br><img src="https://img.shields.io/badge/Python-94%25-3776AB?style=flat-square" alt="Python" /><br><img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=flat-square" alt="C++" /><br><img src="https://img.shields.io/badge/Git-92%25-F05032?style=flat-square" alt="Git" /></td>
+  </tr>
+</table>
 
 </div>
 
