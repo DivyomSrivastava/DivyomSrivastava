@@ -152,6 +152,70 @@ This project bridges the gap between cutting-edge deep learning and practical me
 
 ---
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+### Activity & Performance
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+### Contribution Overview
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+
+### Repository Statistics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DivyomSrivastava?tab=repositories">
+        <img src="https://img.shields.io/badge/Public%20Repositories-3%2B-00E5FF?style=for-the-badge&logo=github" alt="Repositories" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DivyomSrivastava">
+        <img src="https://img.shields.io/badge/GitHub%20Followers-50%2B-7C3AED?style=for-the-badge&logo=github" alt="Followers" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Stars-10%2B-FFD700?style=for-the-badge&logo=github" alt="Stars" />
+    </td>
+  </tr>
+</table>
+
+### Expertise Metrics
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🤖 Robotics</b><br>
+      ROS 2 • Gazebo • URDF • Nav2
+    </td>
+    <td align="center" width="33%">
+      <b>🧠 AI/ML</b><br>
+      PyTorch • TensorFlow • CV • DL
+    </td>
+    <td align="center" width="33%">
+      <b>💻 Software</b><br>
+      Python • C++ • Embedded • Full-Stack
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Robotics Expertise
 
 | Domain | Skills |
@@ -166,25 +230,19 @@ This project bridges the gap between cutting-edge deep learning and practical me
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="450" />
-
-</div>
-
----
-
 ## 🌟 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DivyomSrivastava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyom-srivastava-260b95342/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divyomsrivastava1109@gmail.com)
 
 **Open to opportunities in Robotics Engineering, AI/ML, and Embedded Systems** 🚀
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DivyomSrivastava&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -193,5 +251,7 @@ This project bridges the gap between cutting-edge deep learning and practical me
 <div align="center">
 
 *"Innovation at the intersection of robotics, AI, and imagination"* ✨
+
+**Built with ❤️ by Divyom Srivastava**
 
 </div>
