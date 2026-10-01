@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+%26+AI+Engineer;Building+Autonomous+Systems" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+Engineer;AI%2FML+Enthusiast;Building+Autonomous+Systems" alt="Animated Header" />
 
 <br>
 
@@ -61,84 +61,63 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 
 ## ⭐ Featured Projects
 
-<div align="center">
-
 ### 🤖 BumperBot ROS 2 Workspace
 
-A complete differential-drive mobile robot simulation and control workspace built with **ROS 2 Jazzy** and **Ubuntu 24.04**. The project now includes:
-
-- A URDF/Xacro robot model with meshes, inertias, collision geometry, and caster wheels
-- Gazebo simulation with automatic distro-aware Gazebo/Ignition configuration
-- `ros2_control` hardware interfaces and interchangeable drive controllers
-- A custom Python differential-drive kinematics controller and the stock `DiffDriveController`
-- Joystick teleoperation through `joy` and `joy_teleop`
-- RViz visualization, odometry, TF, and reusable ROS 2 Python practice nodes
-- A custom `AddTwoInts` service interface and an organized multi-package workspace
-
-<a href="https://github.com/DivyomSrivastava/Bumper_Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true" width="420" alt="BumperBot repository" />
-</a>
-
-**Python · C++ · XML/Xacro · YAML · CMake · ROS 2 Jazzy · Gazebo · RViz · ros2_control**
-
-<br>
-
-[📖 View the BumperBot workspace →](https://github.com/DivyomSrivastava/Bumper_Bot)
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/DivyomSrivastava/Bumper_Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true" alt="BumperBot repository" />
+      </a>
+    </td>
+    <td width="65%" align="left" valign="top">
+      <h4>Complete ROS 2 Differential-Drive Robot</h4>
+      <p>A production-ready mobile robot simulation and control workspace built with <b>ROS 2 Jazzy</b> and <b>Ubuntu 24.04</b>. Features URDF/Xacro robot modeling, Gazebo simulation, ros2_control hardware interfaces, joystick teleoperation, and custom kinematics controllers.</p>
+      <p><b>Tech:</b> Python • C++ • ROS 2 • Gazebo • ros2_control</p>
+      <a href="https://github.com/DivyomSrivastava/Bumper_Bot">📖 View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚦 AI Traffic Monitoring System
 
-An intelligent traffic management solution using **YOLOv8** for real-time vehicle detection and **ByteTrack** for multi-object tracking. This system provides:
-
-- **Real-time vehicle detection** and classification (cars, motorcycles, buses, trucks)
-- **Multi-vehicle tracking** with persistent ID assignment across frames
-- **Traffic density estimation** and flow rate analysis
-- **Adaptive traffic signal timing** recommendations based on current traffic volume
-- **Line crossing counter** for directional traffic analysis
-- **Live analytics dashboard** with real-time metrics and statistics
-- **CSV report generation** for traffic data analysis and historical records
-- **Modular architecture** for scalable deployment across multiple intersections
-
-This project demonstrates practical AI applications in **Intelligent Transportation Systems (ITS)**, helping optimize traffic flow and reduce congestion in urban environments.
-
-<a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true" width="420" alt="AI Traffic Monitoring System" />
-</a>
-
-**Python · YOLOv8 · ByteTrack · OpenCV · Real-time Analytics · Traffic Optimization**
-
-<br>
-
-[📊 View the Traffic Monitoring System →](https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System)
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true" alt="AI Traffic Monitoring System" />
+      </a>
+    </td>
+    <td width="65%" align="left" valign="top">
+      <h4>Real-Time Intelligent Traffic Management</h4>
+      <p>Intelligent traffic solution using <b>YOLOv8</b> for vehicle detection and <b>ByteTrack</b> for multi-object tracking. Includes traffic density estimation, adaptive signal timing, line crossing counter, live analytics dashboard, and CSV report generation for urban traffic optimization.</p>
+      <p><b>Tech:</b> Python • YOLOv8 • ByteTrack • OpenCV • Analytics</p>
+      <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">📊 View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧬 Brain Tumor Detection — NeuroVision AI
 
-A medical AI application for **brain MRI tumor classification** using deep learning and explainable AI. This end-to-end solution includes:
-
-- **EfficientNet-B0 classifier** trained to detect four tumor types: Glioma, Meningioma, Pituitary, and No Tumor
-- **Grad-CAM explainability** that highlights the regions of the MRI that influenced the model's prediction
-- **Streamlit web dashboard** for intuitive single and batch MRI upload and analysis
-- **Automated PDF report generation** combining prediction, confidence scores, class probabilities, and visual explanations
-- **Complete inference pipeline** with preprocessing, prediction, and post-processing modules
-- **Modular architecture** separating prediction, explainability, and reporting logic
-- **Batch processing capability** to analyze multiple MRI scans in a single session
-
-This project bridges the gap between cutting-edge deep learning and practical medical AI applications, emphasizing interpretability and end-user accessibility.
-
-<a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true" width="420" alt="Brain Tumor Detection" />
-</a>
-
-**Python · PyTorch · EfficientNet-B0 · Grad-CAM · Streamlit · Explainable AI · Medical Imaging**
-
-<br>
-
-[🧠 View NeuroVision AI →](https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning)
-
-</div>
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true" alt="Brain Tumor Detection AI" />
+      </a>
+    </td>
+    <td width="65%" align="left" valign="top">
+      <h4>Medical AI with Explainable Deep Learning</h4>
+      <p>End-to-end medical AI application for brain MRI tumor classification using <b>EfficientNet-B0</b> and <b>Grad-CAM</b> explainability. Features Streamlit web dashboard, automated PDF report generation, batch processing, and interpretable predictions for clinical use.</p>
+      <p><b>Tech:</b> Python • PyTorch • EfficientNet • Grad-CAM • Streamlit</p>
+      <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">🧠 View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -156,61 +135,28 @@ This project bridges the gap between cutting-edge deep learning and practical me
 
 <div align="center">
 
-### Activity & Performance
+<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-### Contribution Overview
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
-### Repository Statistics
+<br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DivyomSrivastava?tab=repositories">
-        <img src="https://img.shields.io/badge/Public%20Repositories-3%2B-00E5FF?style=for-the-badge&logo=github" alt="Repositories" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DivyomSrivastava">
-        <img src="https://img.shields.io/badge/GitHub%20Followers-50%2B-7C3AED?style=for-the-badge&logo=github" alt="Followers" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total%20Stars-10%2B-FFD700?style=for-the-badge&logo=github" alt="Stars" />
-    </td>
-  </tr>
-</table>
+**Repository Highlights**
 
-### Expertise Metrics
+| Public Repos | Followers | Total Stars |
+|:---:|:---:|:---:|
+| 3+ | 50+ | 10+ |
 
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="33%">
-      <b>🤖 Robotics</b><br>
-      ROS 2 • Gazebo • URDF • Nav2
-    </td>
-    <td align="center" width="33%">
-      <b>🧠 AI/ML</b><br>
-      PyTorch • TensorFlow • CV • DL
-    </td>
-    <td align="center" width="33%">
-      <b>💻 Software</b><br>
-      Python • C++ • Embedded • Full-Stack
-    </td>
-  </tr>
-</table>
+<br>
+
+**Expertise Areas**
+
+| 🤖 Robotics | 🧠 AI/ML | 💻 Software |
+|:---:|:---:|:---:|
+| ROS 2 • Gazebo • Nav2 | PyTorch • TensorFlow • CV | Python • C++ • Embedded |
 
 </div>
 
@@ -222,7 +168,7 @@ This project bridges the gap between cutting-edge deep learning and practical me
 | --- | --- |
 | **Autonomous Navigation** | ROS 2, Nav2, SLAM, TF2, path planning, odometry |
 | **Simulation** | Gazebo, URDF, Xacro, RViz, physics simulation |
-| **Robot Control** | `ros2_control`, differential drive, custom controllers, joystick teleop |
+| **Robot Control** | ros2_control, differential drive, custom controllers, joystick teleop |
 | **Perception** | Point clouds, LiDAR, cameras, sensor fusion |
 | **Robotics Hardware** | Arduino, ESP32, motor drivers, sensors |
 | **Computer Vision** | YOLO, OpenCV, tracking, detection |
