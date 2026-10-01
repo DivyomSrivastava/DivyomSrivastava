@@ -143,33 +143,24 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Distribution" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Distribution" width="100%" />
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
-<br>
-
-### Repository Highlights
-
-<table>
-  <tr>
-    <td align="center"><strong>📦 Public Repositories</strong><br><img src="https://img.shields.io/badge/3%2B-00E5FF?style=for-the-badge&label=Repositories&labelColor=1a1a2e" alt="Public Repositories" /></td>
-    <td align="center"><strong>👥 Followers</strong><br><img src="https://img.shields.io/badge/50%2B-7C3AED?style=for-the-badge&label=Followers&labelColor=1a1a2e" alt="Followers" /></td>
-    <td align="center"><strong>⭐ Total Stars</strong><br><img src="https://img.shields.io/badge/10%2B-FFD700?style=for-the-badge&label=Stars&labelColor=1a1a2e" alt="Total Stars" /></td>
-  </tr>
-</table>
-
-<br>
+<br><br>
 
 ### Expertise Distribution
 
 <table>
   <tr>
     <td width="33%" align="center"><strong>🤖 Robotics</strong><br><br><img src="https://img.shields.io/badge/ROS%202-95%25-22314E?style=flat-square" alt="ROS 2" /><br><img src="https://img.shields.io/badge/Gazebo-90%25-FF6F20?style=flat-square" alt="Gazebo" /><br><img src="https://img.shields.io/badge/Nav2-85%25-00A86B?style=flat-square" alt="Nav2" /></td>
-    <td width="33%" align="center"><strong>🧠 AI/ML</strong><br><br><img src="https://img.shields.io/badge/PyTorch-92%25-EE4C2C?style=flat-square" alt="PyTorch" /><br><img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square" alt="TensorFlow" /><br><img src="https://img.shields.io/badge/OpenCV-90%25-5C3EE8?style=flat-square" alt="OpenCV" /></td>
+    <td width="33%" align="center"><strong>��� AI/ML</strong><br><br><img src="https://img.shields.io/badge/PyTorch-92%25-EE4C2C?style=flat-square" alt="PyTorch" /><br><img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square" alt="TensorFlow" /><br><img src="https://img.shields.io/badge/OpenCV-90%25-5C3EE8?style=flat-square" alt="OpenCV" /></td>
     <td width="33%" align="center"><strong>💻 Software</strong><br><br><img src="https://img.shields.io/badge/Python-94%25-3776AB?style=flat-square" alt="Python" /><br><img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=flat-square" alt="C++" /><br><img src="https://img.shields.io/badge/Git-92%25-F05032?style=flat-square" alt="Git" /></td>
   </tr>
 </table>
