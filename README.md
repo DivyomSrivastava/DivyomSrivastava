@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+Engineer;Building+Intelligent+Autonomous+Systems" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+%26+AI+Engineer;Building+Autonomous+Systems" alt="Typing header" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🤖_Robotics-00E5FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🧠_AI%2FML-7C3AED?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/⚡_Embedded-22C55E?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🤖_Robotics-00E5FF?style=for-the-badge&labelColor=1a1a2e" alt="Robotics" />
+<img src="https://img.shields.io/badge/🧠_AI%2FML-7C3AED?style=for-the-badge&labelColor=1a1a2e" alt="AI/ML" />
+<img src="https://img.shields.io/badge/⚡_Embedded-22C55E?style=for-the-badge&labelColor=1a1a2e" alt="Embedded" />
 
 <h3>🚀 Creating autonomous robots with ROS 2, AI, and embedded systems</h3>
 
@@ -65,13 +65,25 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 
 ### 🤖 BumperBot ROS 2 Workspace
 
-A differential-drive mobile robot simulation and control workspace built with **ROS 2 Jazzy**. It includes a URDF/Xacro model, Gazebo simulation, RViz visualization, `ros2_control`, custom and stock differential-drive controllers, joystick teleoperation, custom interfaces, and Python/C++ learning examples.
+A complete differential-drive mobile robot simulation and control workspace built with **ROS 2 Jazzy** and **Ubuntu 24.04**. The project now includes:
+
+- A URDF/Xacro robot model with meshes, inertias, collision geometry, and caster wheels
+- Gazebo simulation with automatic distro-aware Gazebo/Ignition configuration
+- `ros2_control` hardware interfaces and interchangeable drive controllers
+- A custom Python differential-drive kinematics controller and the stock `DiffDriveController`
+- Joystick teleoperation through `joy` and `joy_teleop`
+- RViz visualization, odometry, TF, and reusable ROS 2 Python practice nodes
+- A custom `AddTwoInts` service interface and an organized multi-package workspace
 
 <a href="https://github.com/DivyomSrivastava/Bumper_Bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true" width="420" alt="BumperBot repository" />
 </a>
 
-**Python · C++ · XML/Xacro · YAML · CMake · ROS 2 · Gazebo · RViz · ros2_control**
+**Python · C++ · XML/Xacro · YAML · CMake · ROS 2 Jazzy · Gazebo · RViz · ros2_control**
+
+<br>
+
+[View the BumperBot workspace →](https://github.com/DivyomSrivastava/Bumper_Bot)
 
 ---
 
