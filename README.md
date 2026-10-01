@@ -87,13 +87,7 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
   <tr>
     <td style="width:70%; vertical-align:top;">
       <h3>🚦 AI Traffic Monitoring System</h3>
-      <p>An intelligent traffic management solution using <strong>YOLOv8</strong> for real-time vehicle detection and <strong>ByteTrack</strong> for multi-object tracking.</p>
-      <ul>
-        <li><strong>Detection:</strong> Real-time classification of cars, motorcycles, buses, and trucks</li>
-        <li><strong>Tracking:</strong> Persistent IDs, line crossing counts, and traffic-flow analysis</li>
-        <li><strong>Optimization:</strong> Density estimation and adaptive signal timing recommendations</li>
-        <li><strong>Analytics:</strong> Live dashboard and CSV reports for historical analysis</li>
-      </ul>
+      <p>An intelligent traffic management solution using <strong>YOLOv8</strong> for real-time vehicle detection and <strong>ByteTrack</strong> for multi-object tracking. Provides density estimation, adaptive signal timing, and live analytics.</p>
       <p><strong>Technologies:</strong> Python, YOLOv8, ByteTrack, OpenCV, real-time analytics</p>
       <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System"><strong>🔗 Explore the Project</strong></a>
     </td>
@@ -143,15 +137,8 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Distribution" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages Distribution" width="48%" />
 
 <br><br>
 
@@ -160,7 +147,7 @@ I'm a **Robotics Engineer** passionate about building autonomous systems that so
 <table>
   <tr>
     <td width="33%" align="center"><strong>🤖 Robotics</strong><br><br><img src="https://img.shields.io/badge/ROS%202-95%25-22314E?style=flat-square" alt="ROS 2" /><br><img src="https://img.shields.io/badge/Gazebo-90%25-FF6F20?style=flat-square" alt="Gazebo" /><br><img src="https://img.shields.io/badge/Nav2-85%25-00A86B?style=flat-square" alt="Nav2" /></td>
-    <td width="33%" align="center"><strong>��� AI/ML</strong><br><br><img src="https://img.shields.io/badge/PyTorch-92%25-EE4C2C?style=flat-square" alt="PyTorch" /><br><img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square" alt="TensorFlow" /><br><img src="https://img.shields.io/badge/OpenCV-90%25-5C3EE8?style=flat-square" alt="OpenCV" /></td>
+    <td width="33%" align="center"><strong>🧠 AI/ML</strong><br><br><img src="https://img.shields.io/badge/PyTorch-92%25-EE4C2C?style=flat-square" alt="PyTorch" /><br><img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square" alt="TensorFlow" /><br><img src="https://img.shields.io/badge/OpenCV-90%25-5C3EE8?style=flat-square" alt="OpenCV" /></td>
     <td width="33%" align="center"><strong>💻 Software</strong><br><br><img src="https://img.shields.io/badge/Python-94%25-3776AB?style=flat-square" alt="Python" /><br><img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=flat-square" alt="C++" /><br><img src="https://img.shields.io/badge/Git-92%25-F05032?style=flat-square" alt="Git" /></td>
   </tr>
 </table>
