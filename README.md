@@ -83,29 +83,72 @@ A complete differential-drive mobile robot simulation and control workspace buil
 
 <br>
 
-[View the BumperBot workspace →](https://github.com/DivyomSrivastava/Bumper_Bot)
+[📖 View the BumperBot workspace →](https://github.com/DivyomSrivastava/Bumper_Bot)
 
 ---
 
 ### 🚦 AI Traffic Monitoring System
 
-**YOLOv8 · ByteTrack · Real-time Analytics**
+An intelligent traffic management solution using **YOLOv8** for real-time vehicle detection and **ByteTrack** for multi-object tracking. This system provides:
+
+- **Real-time vehicle detection** and classification (cars, motorcycles, buses, trucks)
+- **Multi-vehicle tracking** with persistent ID assignment across frames
+- **Traffic density estimation** and flow rate analysis
+- **Adaptive traffic signal timing** recommendations based on current traffic volume
+- **Line crossing counter** for directional traffic analysis
+- **Live analytics dashboard** with real-time metrics and statistics
+- **CSV report generation** for traffic data analysis and historical records
+- **Modular architecture** for scalable deployment across multiple intersections
+
+This project demonstrates practical AI applications in **Intelligent Transportation Systems (ITS)**, helping optimize traffic flow and reduce congestion in urban environments.
 
 <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true" width="420" alt="AI Traffic Monitoring System" />
 </a>
 
+**Python · YOLOv8 · ByteTrack · OpenCV · Real-time Analytics · Traffic Optimization**
+
+<br>
+
+[📊 View the Traffic Monitoring System →](https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System)
+
 ---
 
-### 🧬 Brain Tumor Detection
+### 🧬 Brain Tumor Detection — NeuroVision AI
 
-**EfficientNet-B0 · Grad-CAM · Medical AI**
+A medical AI application for **brain MRI tumor classification** using deep learning and explainable AI. This end-to-end solution includes:
+
+- **EfficientNet-B0 classifier** trained to detect four tumor types: Glioma, Meningioma, Pituitary, and No Tumor
+- **Grad-CAM explainability** that highlights the regions of the MRI that influenced the model's prediction
+- **Streamlit web dashboard** for intuitive single and batch MRI upload and analysis
+- **Automated PDF report generation** combining prediction, confidence scores, class probabilities, and visual explanations
+- **Complete inference pipeline** with preprocessing, prediction, and post-processing modules
+- **Modular architecture** separating prediction, explainability, and reporting logic
+- **Batch processing capability** to analyze multiple MRI scans in a single session
+
+This project bridges the gap between cutting-edge deep learning and practical medical AI applications, emphasizing interpretability and end-user accessibility.
 
 <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true" width="420" alt="Brain Tumor Detection" />
 </a>
 
+**Python · PyTorch · EfficientNet-B0 · Grad-CAM · Streamlit · Explainable AI · Medical Imaging**
+
+<br>
+
+[🧠 View NeuroVision AI →](https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning)
+
 </div>
+
+---
+
+## 📊 Project Comparison
+
+| Project | Domain | Tech Stack | Key Feature |
+| --- | --- | --- | --- |
+| **BumperBot** | Robotics | ROS 2, Gazebo, C++, Python | Complete autonomous robot workspace with control & simulation |
+| **Traffic Monitoring** | Computer Vision | YOLOv8, ByteTrack, OpenCV | Real-time vehicle tracking & adaptive traffic management |
+| **NeuroVision AI** | Medical AI | PyTorch, EfficientNet, Streamlit | Explainable brain tumor detection with PDF reports |
 
 ---
 
