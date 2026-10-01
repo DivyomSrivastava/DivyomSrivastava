@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+Engineer;AI%2FML+%7C+Embedded+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&lines=Hi%2C+I'm+Divyom+Srivastava;Robotics+Engineer;AI%2FML+%7C+Embedded+Systems" />
 
 <br>
 
