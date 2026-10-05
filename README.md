@@ -312,8 +312,8 @@ GPIO
 
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" />
 <img src="https://img.shields.io/badge/Gazebo-FF6F20?style=flat-square" />
-<img src="https://img.shields.io/badge/RViz-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Nav2-00A86B?style=flat-square" />
+<img src="https://img.shields.io/badge/RViz-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/TF2-555555?style=flat-square" />
 <img src="https://img.shields.io/badge/ros2__control-8A2BE2?style=flat-square" />
 <img src="https://img.shields.io/badge/URDF%2FXacro-555555?style=flat-square" />
@@ -323,7 +323,10 @@ GPIO
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" />
 
 ## 👁️ AI & Computer Vision
 
@@ -331,6 +334,9 @@ GPIO
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLO-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/ByteTrack-444444?style=flat-square" />
+<img src="https://img.shields.io/badge/Grad--CAM-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ## 🔌 Embedded
 
@@ -338,6 +344,10 @@ GPIO
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi" />
+<img src="https://img.shields.io/badge/UART-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/SPI-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/I²C-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/PWM-555555?style=flat-square" />
 
 ## 🧰 Development
 
@@ -346,6 +356,9 @@ GPIO
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks" />
+<img src="https://img.shields.io/badge/Simulink-FF7F00?style=flat-square&logo=mathworks" />
+<img src="https://img.shields.io/badge/EasyEDA-1769AA?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenRocket-555555?style=flat-square" />
 
 ---
 
