@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:22314E,100:00E5FF&height=240&section=header&text=Divyom%20Srivastava&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Robotics%20%E2%80%A2%20ROS%202%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Embedded%20Systems&descSize=18&descAlignY=60&descColor=BFEFFF" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=40&lines=Building+autonomous+robots+from+sensors+to+software;ROS+2+%C2%B7+Gazebo+%C2%B7+Nav2+%C2%B7+ros2_control;Perception+%C2%B7+YOLO+%C2%B7+OpenCV+%C2%B7+Tracking;Embedded+%C2%B7+ESP32+%C2%B7+STM32+%C2%B7+Pico+2;Ground+%C2%B7+Aerial+%C2%B7+Legged+Autonomous+Systems;Rocketry+%26+Avionics+%E2%80%94+TEKNOFEST+2026" alt="Typing animation" />
+<img src="assets/header.svg" width="100%" alt="Divyom Srivastava - Robotics, ROS 2, Perception, Embedded" />
 
 <br/>
 
@@ -16,9 +14,9 @@
 <br/><br/>
 
 <a href="https://github.com/DivyomSrivastava"><img src="https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/divyom-srivastava-260b95342/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat-square&logo=linkedin&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/divyom-srivastava-260b95342/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRTVGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
 <a href="mailto:divyomsrivastava1109@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=flat-square&logo=gmail&logoColor=00E5FF" /></a>
-<img src="https://komarev.com/ghpvc/?username=DivyomSrivastava&label=Profile%20Views&color=00E5FF&style=flat-square&labelColor=0B1020" />
+<img src="https://img.shields.io/github/followers/DivyomSrivastava?style=flat-square&logo=github&logoColor=00E5FF&label=Followers&color=00E5FF&labelColor=0B1020" />
 
 </div>
 
@@ -278,14 +276,6 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 <img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&langs_count=8" width="48%" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyomSrivastava&theme=tokyonight&hide_border=true&background=0B1020" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomSrivastava&bg_color=0B1020&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true" width="95%" />
-
 </div>
 
 <br/>
@@ -297,7 +287,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 
 <br/>
 
-<a href="https://www.linkedin.com/in/divyom-srivastava-260b95342/"><img src="https://img.shields.io/badge/Let's_Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B1020&labelColor=0B1020" /></a>
+<a href="https://www.linkedin.com/in/divyom-srivastava-260b95342/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0B1020?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRTVGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0B1020&color=0B1020" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:22314E,100:0B1020&height=140&section=footer&reversal=true" width="100%" alt="footer" />
 
