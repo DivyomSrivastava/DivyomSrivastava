@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:22314E,100:00E5FF&height=240&section=header&text=Divyom%20Srivastava&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Robotics%20%E2%80%A2%20ROS%202%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Embedded%20Systems&descSize=18&descAlignY=60&descColor=BFEFFF" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=40&lines=Building+autonomous+robots+from+sensors+to+software;ROS+2+%C2%B7+Gazebo+%C2%B7+Nav2+%C2%B7+ros2_control;Perception+%C2%B7+YOLO+%C2%B7+OpenCV+%C2%B7+Tracking;Embedded+%C2%B7+ESP32+%C2%B7+STM32+%C2%B7+Pico+2;Rocketry+%26+Avionics+%E2%80%94+TEKNOFEST+2026" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=40&lines=Building+autonomous+robots+from+sensors+to+software;ROS+2+%C2%B7+Gazebo+%C2%B7+Nav2+%C2%B7+ros2_control;Perception+%C2%B7+YOLO+%C2%B7+OpenCV+%C2%B7+Tracking;Embedded+%C2%B7+ESP32+%C2%B7+STM32+%C2%B7+Pico+2;Ground+%C2%B7+Aerial+%C2%B7+Legged+Autonomous+Systems;Rocketry+%26+Avionics+%E2%80%94+TEKNOFEST+2026" alt="Typing animation" />
 
 <br/>
 
@@ -30,12 +30,13 @@
 
 I'm a **Computer Science undergraduate** focused on **Robotics, Artificial Intelligence, Computer Vision and Embedded Systems**. I like working where software meets hardware: ROS 2 simulations and controllers, vision pipelines, and the embedded devices that connect robots to the physical world.
 
-My long-term goal is to work on **real-world autonomous robotic systems** across the full stack, from sensors and microcontrollers to perception, planning and control.
+My long-term goal is to build **real-world autonomous robotic systems** across the full stack, from sensors and microcontrollers to perception, planning and control, and across platforms: **ground, aerial and legged robots**. I'm starting with ground-robot navigation and automation, and expanding into **aerial vehicles and legged locomotion**.
 
 ```text
- Sensors ──▶ Perception ──▶ Localization ──▶ Planning ──▶ Control ──▶ Actuation
-   ESP32       OpenCV          SLAM / TF2        Nav2      ros2_control    Motors
-   IMU/GNSS    YOLO            Odometry          Paths     PID / Diff-drive
+  Sensors ───▶ Perception ───▶ Estimation ───▶ Planning ───▶ Control ───▶ Actuation
+  IMU · GNSS    OpenCV · YOLO   SLAM · Odometry  Nav2 · Paths  PID · ros2_control  Motors · Servos
+
+  Platforms:   Ground robots   ·   Aerial vehicles   ·   Legged robots
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
@@ -246,25 +247,27 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 ## 🧭 &nbsp;Current Focus
 
 ```text
-                        AUTONOMOUS ROBOTICS
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          ▼                     ▼                     ▼
-      Software              Perception             Hardware
-   ROS 2 · TF2 · Nav2    OpenCV · YOLO · Cameras   ESP32 · STM32 · Pico
-   Gazebo · RViz         Tracking · Detection      Sensors · Motors
-          └─────────────────────┼─────────────────────┘
-                                ▼
-                    Mobile Robots · SLAM · Control
+                         AUTONOMOUS ROBOTICS
+                                 │
+           ┌─────────────────────┼─────────────────────┐
+           ▼                     ▼                     ▼
+       Software              Perception             Hardware
+    ROS 2 · TF2 · Nav2    OpenCV · YOLO · Cameras   ESP32 · STM32 · Pico
+    Gazebo · RViz         Tracking · Detection      Sensors · Motors
+           └─────────────────────┼─────────────────────┘
+                                 ▼
+                    Control · Estimation · Autonomy
 ```
 
-* 🛞 **Mobile robotics:** differential drive, kinematics, odometry and control
-* 🎮 **Simulation:** Gazebo, URDF/Xacro, RViz
-* 🔧 **ros2_control:** controllers, hardware interfaces, actuation
-* 🧭 **Navigation:** Nav2, SLAM, localization, path planning
-* 👁️ **Perception:** cameras, OpenCV, YOLO, object tracking
-* 🔌 **Embedded robotics:** sensors, motor control, UART / SPI / I²C
-* 💻 **Software engineering:** Python, C++, Git, Linux, CMake
+### 📍 Roadmap
+
+| Stage | Focus | Topics |
+|:--|:--|:--|
+| **🟢 Now** | Ground robots, navigation & automation | Differential drive, kinematics, odometry, TF2, ros2_control, Gazebo, Nav2, SLAM, localization, path planning |
+| **🔵 Building** | Perception & embedded systems | OpenCV, YOLO, object tracking, sensor fusion, ESP32 / STM32 / Pico, UART · SPI · I²C, telemetry |
+| **🟣 Next** | Aerial & legged locomotion | Flight dynamics, state estimation, flight control, multirotor and fixed-wing systems, gait generation, legged kinematics and balance control |
+
+**Engineering foundation:** Python · C++ · Git · Linux · CMake
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 
@@ -272,7 +275,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivyomSrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomSrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&langs_count=8" width="48%" />
 
 <br/><br/>
