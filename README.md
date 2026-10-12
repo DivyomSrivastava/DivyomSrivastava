@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Divyom Srivastava - Robotics, ROS 2, Perception, Embedded" />
+<img src="header.svg" width="100%" alt="Divyom Srivastava - Robotics, ROS 2, Perception, Embedded" />
 
 <br/>
 
