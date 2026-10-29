@@ -93,7 +93,7 @@ Modeling, simulation and control of a mobile robot in the ROS 2 ecosystem. The r
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="bumperbot_stack.svg" alt="BumperBot ROS 2 stack diagram" width="100%" />
+<img src="bumperbot_rviz.jpg" alt="BumperBot model in RViz" width="100%" />
 
 </td>
 </tr>
