@@ -28,7 +28,7 @@
 
 I'm a **Computer Science undergraduate** focused on **Robotics, Artificial Intelligence, Computer Vision and Embedded Systems**. I like working where software meets hardware: ROS 2 simulations and controllers, vision pipelines, and the embedded devices that connect robots to the physical world.
 
-My long-term goal is to build **real-world autonomous robotic systems** across the full stack, from sensors and microcontrollers to perception, planning and control, and across platforms: **ground, aerial and legged robots**. I'm starting with ground-robot navigation and automation, and expanding into **aerial vehicles and legged locomotion**.
+My long-term goal is to build **real-world autonomous robotic systems** across the full stack, from sensors and microcontrollers to perception, planning and control, and across platforms: **ground, aerial and legged robots**. I'm starting with ground-robot navigation, robotic arms and automation, and expanding into **aerial vehicles and legged locomotion**.
 
 ```text
   Sensors ───▶ Perception ───▶ Estimation ───▶ Planning ───▶ Control ───▶ Actuation
@@ -70,7 +70,7 @@ Projects combining<br/>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛞 BumperBot
 **ROS 2 differential-drive mobile robot**
@@ -84,7 +84,23 @@ Odometry · differential-drive kinematics · joystick teleoperation
 <a href="https://github.com/DivyomSrivastava/Bumper_Bot">View repository →</a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🦾 4-DOF Robotic Arm
+**3D-printed arm with inverse kinematics and browser-based 3D control**
+
+My first robotic arm: ESP32 + PCA9685 firmware with analytic IK, minimum-jerk motion and built-in routines, plus a Three.js control studio that talks to the arm over USB.
+
+`ESP32` `PCA9685` `Arduino C++` `Inverse Kinematics` `Three.js` `Web Serial`
+
+Servo control · smooth motion planning · kinematics · CAD & 3D printing
+
+<a href="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚦 AI Traffic Monitoring
 **Real-time vehicle detection & tracking**
@@ -98,7 +114,7 @@ Multi-object tracking · vehicle counting · traffic density analysis
 <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">View repository →</a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧬 NeuroVision AI
 **Brain tumor MRI classification with explainable AI**
@@ -117,9 +133,10 @@ Single & batch analysis · automated reporting
 
 <div align="center">
 
-<a href="https://github.com/DivyomSrivastava/Bumper_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true&bg_color=0B1020" width="32%" /></a>
-<a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0B1020" width="32%" /></a>
-<a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0B1020" width="32%" /></a>
+<a href="https://github.com/DivyomSrivastava/Bumper_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
+<a href="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=4DOF-Robotic-Arm&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
+<a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
+<a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
 
 </div>
 
@@ -195,6 +212,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /><br/>
@@ -210,7 +228,8 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 <img src="https://img.shields.io/badge/YOLO-00C853?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/ByteTrack-444444?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Grad--CAM-8A2BE2?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 
 </td>
 <td valign="top" width="20%">
@@ -222,7 +241,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/UART-555555?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/SPI-555555?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/I²C-555555?style=flat-square" /> <img src="https://img.shields.io/badge/PWM-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/I²C-555555?style=flat-square" /> <img src="https://img.shields.io/badge/PWM-555555?style=flat-square" /> <img src="https://img.shields.io/badge/PCA9685-555555?style=flat-square" />
 
 </td>
 <td valign="top" width="20%">
@@ -234,7 +253,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Simulink-FF7F00?style=flat-square&logo=mathworks&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/EasyEDA-1769AA?style=flat-square" /> <img src="https://img.shields.io/badge/OpenRocket-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/EasyEDA-1769AA?style=flat-square" /> <img src="https://img.shields.io/badge/OpenRocket-555555?style=flat-square" /> <img src="https://img.shields.io/badge/3D_Printing-555555?style=flat-square" />
 
 </td>
 </tr>
@@ -261,7 +280,7 @@ This work built my understanding of **embedded systems, sensors, telemetry, real
 
 | Stage | Focus | Topics |
 |:--|:--|:--|
-| **🟢 Now** | Ground robots, navigation & automation | Differential drive, kinematics, odometry, TF2, ros2_control, Gazebo, Nav2, SLAM, localization, path planning |
+| **🟢 Now** | Ground robots, manipulators, navigation & automation | Differential drive, arm kinematics (IK), servo control, odometry, TF2, ros2_control, Gazebo, Nav2, SLAM, localization, path planning |
 | **🔵 Building** | Perception & embedded systems | OpenCV, YOLO, object tracking, sensor fusion, ESP32 / STM32 / Pico, UART · SPI · I²C, telemetry |
 | **🟣 Next** | Aerial & legged locomotion | Flight dynamics, state estimation, flight control, multirotor and fixed-wing systems, gait generation, legged kinematics and balance control |
 
