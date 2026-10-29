@@ -70,75 +70,115 @@ Projects combining<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<th width="58%" align="left">Project</th>
+<th width="42%" align="center">Preview</th>
+</tr>
+
+<tr>
+<td width="58%" valign="top">
 
 ### 🛞 BumperBot
 **ROS 2 differential-drive mobile robot**
 
-Modeling, simulation and control of a mobile robot in the ROS 2 ecosystem.
+Modeling, simulation and control of a mobile robot in the ROS 2 ecosystem. The robot is described in URDF/Xacro, simulated in Gazebo, driven through `ros2_control` with a `DiffDriveController`, and visualized in RViz, with TF2 transforms and odometry tying the system together.
 
-`ROS 2 Jazzy` `Gazebo` `RViz` `URDF/Xacro` `TF2` `ros2_control` `DiffDriveController` `Python` `C++`
+* Differential-drive kinematics and odometry
+* Joystick teleoperation
+* Separate packages for description, control, messages, and C++ / Python examples
 
-Odometry · differential-drive kinematics · joystick teleoperation
+`ROS 2 Jazzy` `Gazebo` `RViz` `URDF/Xacro` `TF2` `ros2_control` `Python` `C++`
 
 <a href="https://github.com/DivyomSrivastava/Bumper_Bot">View repository →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
+
+<img src="bumperbot_stack.svg" alt="BumperBot ROS 2 stack diagram" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="58%" valign="top">
 
 ### 🦾 4-DOF Robotic Arm
 **3D-printed arm with inverse kinematics and browser-based 3D control**
 
-My first robotic arm: ESP32 + PCA9685 firmware with analytic IK, minimum-jerk motion and built-in routines, plus a Three.js control studio that talks to the arm over USB.
+My first robotic arm, built end to end: 3D-printed structure, ESP32 + PCA9685 wiring, custom firmware and a web control studio. The firmware solves inverse kinematics on the board with reach, joint-limit and table-collision checks, and moves with minimum-jerk easing and per-joint speed limits. A Three.js page mirrors the same maths and drives the real arm over USB with the Web Serial API.
 
-`ESP32` `PCA9685` `Arduino C++` `Inverse Kinematics` `Three.js` `Web Serial`
+* Analytic IK: `XYZ 10 0 8` moves the tip to a point
+* 8 built-in routines (wave, nod, dance, stretch and more)
+* Drag a 3D target or follow the cursor from the browser
+* Documented wiring, calibration and serial commands
 
-Servo control · smooth motion planning · kinematics · CAD & 3D printing
+`ESP32` `PCA9685` `Arduino C++` `Inverse Kinematics` `Three.js` `Web Serial` `CAD`
 
 <a href="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm">View repository →</a>
 
 </td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm/raw/main/media/robotic_arm_final.jpg" alt="4-DOF robotic arm" width="100%" />
+<br/>
+<img src="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm/raw/main/media/working_demo.gif" alt="4-DOF robotic arm demo" width="45%" />
+
+</td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
 ### 🚦 AI Traffic Monitoring
 **Real-time vehicle detection & tracking**
 
-Detects and tracks cars, motorcycles, buses and trucks for live traffic analytics.
+Detects and tracks cars, motorcycles, buses and trucks in video to produce live traffic analytics. YOLOv8 handles detection, ByteTrack keeps identities across frames, and results are shown in a dashboard and exported as CSV reports.
+
+* Multi-object tracking
+* Vehicle counting
+* Traffic density analysis
+* Dashboard, statistics and CSV reporting
 
 `YOLOv8` `OpenCV` `ByteTrack` `Python`
-
-Multi-object tracking · vehicle counting · traffic density analysis
 
 <a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System">View repository →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System/raw/main/screenshots/dashboard.png" alt="Traffic monitoring dashboard" width="100%" />
+<br/>
+<img src="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System/raw/main/screenshots/detection.png" alt="Vehicle detection" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="58%" valign="top">
 
 ### 🧬 NeuroVision AI
 **Brain tumor MRI classification with explainable AI**
 
-Glioma / Meningioma / Pituitary / No Tumor classification with visual explanations.
+Classifies MRI scans into Glioma, Meningioma, Pituitary or No Tumor with an EfficientNet-B0 model in PyTorch. Grad-CAM heatmaps show which regions drove each prediction, and a Streamlit app handles uploads, class probabilities and downloadable PDF reports.
+
+* Single and batch analysis
+* Grad-CAM visual explanations
+* Class probability breakdown
+* Automated PDF reporting
 
 `PyTorch` `EfficientNet-B0` `Grad-CAM` `Streamlit`
-
-Single & batch analysis · automated reporting
 
 <a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning">View repository →</a>
 
 </td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning/raw/main/assets/demo_dashboard.png" alt="NeuroVision AI dashboard" width="100%" />
+<br/>
+<img src="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning/raw/main/assets/prediction_gradcam.png" alt="Prediction with Grad-CAM" width="100%" />
+
+</td>
 </tr>
 </table>
-
-<div align="center">
-
-<a href="https://github.com/DivyomSrivastava/Bumper_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Bumper_Bot&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
-<a href="https://github.com/DivyomSrivastava/4DOF-Robotic-Arm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=4DOF-Robotic-Arm&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
-<a href="https://github.com/DivyomSrivastava/AI-Traffic-Monitoring-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=AI-Traffic-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
-<a href="https://github.com/DivyomSrivastava/Brain-Tumor-Detection-Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyomSrivastava&repo=Brain-Tumor-Detection-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0B1020" width="48%" /></a>
-
-</div>
 
 <br/>
 
